@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body{
+    
+    margin: 2;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.searchbar{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-top: 14px;
+
+
+
+}
+i{
+    font-style: normal;
+    padding: 0..5px;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -9px;
+   
+    margin-left: 26px;
+}
+
+img{
+    width: 100px;
+    margin-left: -9px;
+}
+.search-input{
+    width: 591px;
+    height: 25px;
+}
+.search-button{
+    width: 69px;
+    height: 36px;
+}
+.icons{
+    padding-right: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 187px;
+    margin-top: 6px;
+    margin-left: 46px;
+}
+.search{
+    height: 33px;
+    width: 78px;
+
+}
+.mainbody{
+    height: 100vh;
+    
+    display: flex;
+    
+}
+.catogaries{
+    width: 230px;
+    
+    height: 100vh;
+    background: white;
+    
+
+}
+.catogariesSection{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    padding-top: 0px;
+    margin-left: -24px;
+    border-top: 1px solid;
+    border-color: #D9D9D9;
+}
+.catogariry{
+    width: 100%;
+    display: flex;
+    padding: 12.5px 25px;
+    margin-left: 4px;
+}
+i{
+    margin-right: 25px;
+}.videos{
+    height: 100%;
+    width: 100%;
+    background-color:transparent;
+    padding: 15px 25px;
+}
+.videosGrid{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 864px;
+    padding-top: 10px;
+    margin-left: -6px;
+    padding-top: 30px;
+    
+}
+.video{
+    width: 15px;
+}
+.thumbnail{
+    width: 100%;
+    height: 84px;
+}
+.author{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+
+
+    
+}
+.img2{
+    width: 40px;
+    height: 40px;  
+    margin-top: 73px; 
+    border-radius: 50%;
+    overflow: hidden;
+}
+.img1{
+    width: 260px;
+}
+.text{
+    width: 206px;
+    margin-left: 45px;
+}
+.name-of-vid{
+    font-size: 15px;
+    padding-top: 12px;
+    height: 4px;
+}
+.name-of-persn{
+    color: black;
+    text-decoration: none;
+    color: #909090;
+}
+.views{
+    font-size: 12.5px;
+    color: #6B6B6B;
+    
+}
+.suggections{
+    width: 1110px;
+    height: 48px;
+    margin-top: -15px;
+    margin-left: -25px;
+    padding-right: 38px;
+    border-top: 1px solid;
+        border-top-color: currentcolor;
+    border-bottom: 1px solid;
+        border-bottom-color: currentcolor;
+    border-color: #D9D9D9;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+}
+.btns{
+    margin-left: 22px;
+    width: 59px;
+    height: 34px;
+    margin-top: 7px;
+    border-radius: 25px;
+    border: 1px solid;
+    border-color: #D9D9D9;
+}
+.search-main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -10px;
+    margin-left: 68px;
+    
+}
+.material-icons{
+    margin-right: 15px;
+    margin-left: -7px;
+}
+.profile-photo{
+    width: 38px;
+    height: 36px;
+    border-radius: 48px;
+    margin-top: -7px;
+}
+#search-lense{
+    padding-left: 13px;
+    width: 4px;
+    padding-right: 11px;
+}
+.btnsearch{
+    margin-top: -1px;
+    border: none;
+    width: 48px;
+    height: 33px;
+    border: 1px solid;
+        border-top-color: currentcolor;
+        border-right-color: currentcolor;
+        border-bottom-color: currentcolor;
+        border-left-color: currentcolor;
+    border-color: #D0D0D0;
+}
+.channel-image{
+    width: 31px;
+    height: 27px;
+    margin-top: -3px;
+    padding-left: -1px;
+    padding-right: 8px;
+}
+
+
+
+
+
